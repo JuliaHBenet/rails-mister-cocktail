@@ -10,6 +10,11 @@ end
 gem 'jquery-rails'
 gem 'rails', '~> 5.0.6'
 ruby '2.3.5'
+# CSS
+gem "bootstrap-sass"
+gem "font-awesome-sass"
+gem "simple_form"
+gem "autoprefixer-rails"
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
